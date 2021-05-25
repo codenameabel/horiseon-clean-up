@@ -4,7 +4,7 @@
 - HTML 
 - CSS 
 
-## Modified Website: file:///Users/abelmartinez/Desktop/projects/horiseon-clean-up/index.html 
+## Modified Website: https://codenameabel.github.io/horiseon-clean-up/ 
 
 ## Description of job 
 - Horiseon wanted to make sure website was accessible for all humans. 
